@@ -29,15 +29,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.titansoftware.easypodps</string>
+				<string>com.titansoftware.easypodpsprd</string>
 				<key>bundle-version</key>
-				<string>2.0.2</string>
+				<string>2.7.9</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
 				<string>easyPoD</string>
-				<key>NSBluetoothAlwaysUsageDescription</key>
-				<string>Our app uses bluetooth to find, connect and transfer data between different devices</string>
 			</dict>
 		</dict>
 	</array>
