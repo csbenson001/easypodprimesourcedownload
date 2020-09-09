@@ -6,15 +6,6 @@
 	<false/>
 	<key>destination</key>
 	<string>export</string>
-	<key>manifest</key>
-	<dict>
-		<key>appURL</key>
-		<string>https://easypodprimesource.herokuapp.com/files/easyPoD.ipa</string>
-		<key>displayImageURL</key>
-		<string>https://easypodprimesource.herokuapp.com/images/appDeploymentIcon.png</string>
-		<key>fullSizeImageURL</key>
-		<string>https://easypodprimesource.herokuapp.com/images/appDeploymentIcon.png</string>
-	</dict>
 	<key>method</key>
 	<string>enterprise</string>
 	<key>provisioningProfiles</key>
