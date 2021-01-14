@@ -102,7 +102,7 @@ function Div(platform) {
 
     // iOS
     _info = "Please check your device home screen for the app installation.";
-    _alert = "If you receive a notification regarding an 'Untrusted Developer' upon launch; go to your device Settings, then General, then Profiles to trust the BMW of North America profile."
+    _alert = "If you receive a notification regarding an 'Untrusted Developer' upon launch; go to your device Settings, then General, then Profiles to trust the Titan Software profile."
 
   } else {
 
